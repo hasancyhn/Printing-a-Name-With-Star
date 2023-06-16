@@ -2,7 +2,7 @@
 Printing a name using *
 
 * PRINTING NAME WITH CHARACTERS
-Please write a Python code that dynamically determines the size, based on user input, and prints your name from top to bottom using characters.
+  Please write a Python code that dynamically determines the size, based on user input, and prints your name from top to bottom using characters.
 
 1- All letter characters should be arranged in a square area according to the entered size value. For example, if the size value is 7, all characters should be displayed in a 7x7 square area.
 
